@@ -48,6 +48,6 @@ cp input.pdf input.pdf.bak
 
 ## License
 
-Licensed under [the MIT License][./license].
+Licensed under [the MIT License](./license).
 
-By [German Lashevich][https://github.com/zebradil].
+By [German Lashevich](https://github.com/zebradil).
